@@ -1,0 +1,23 @@
+[33mcommit d24cb46d4c5362fccf6e483f10f79da8b3b122d6[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;32manuj/multiply[m[33m)[m
+Author: het28052001 <het.shah@htree.plus>
+Date:   Tue Mar 7 16:51:13 2023 +0530
+
+    added multiply.py
+
+[33mcommit 5d8aa6f5444b1d48cc239ea8c630bb2b9ee2c094[m[33m ([m[1;32mmaster[m[33m)[m
+Author: het28052001 <het.shah@htree.plus>
+Date:   Tue Mar 7 16:33:46 2023 +0530
+
+    added message in sum.py
+
+[33mcommit d9d8a29586e5a2deaf9874e04c2d2b3c72877304[m
+Author: het28052001 <het.shah@htree.plus>
+Date:   Tue Mar 7 16:29:34 2023 +0530
+
+    adding diff.py
+
+[33mcommit dff4aa1f76bc6e6583872bea4c67da175bdd5b87[m
+Author: het28052001 <het.shah@htree.plus>
+Date:   Tue Mar 7 16:24:13 2023 +0530
+
+    initial commit
